@@ -8,4 +8,4 @@ TEST add merge
 Creating a new branch are quick AND simple. 
 Stash
 Origin-dev
-
+Add this line in Master 4.20.2018
