@@ -1,3 +1,4 @@
+I add this line for changes usig tortoriseGit
 I add this line (2nd) on 2018/10/25
 I add this on 2018/10/25
 Git is a distributed version control system.
